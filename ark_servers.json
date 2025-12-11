@@ -1,21 +1,31 @@
 {
   "version": "2.2",
   "developer": "ARK_Legit",
-  "message": "Official Legit Servers",
+  "message": "Official Legit Servers - Anti-Cheat",
   "servers": [
     {
       "id": "001",
       "name": "LegitServer 2.2",
-      "ip": "example1.ark.com:20700",
-      "password": "pass123",
-      "mode": "pvp"
+      "ip": "السيرفر_الحقيقي_1:20700",
+      "password": "كلمة_السر_الحقيقية_1",
+      "mode": "pvp",
+      "icon": "⚔️"
     },
     {
       "id": "002",
       "name": "Peaceful ARK",
-      "ip": "example2.ark.com:20700",
-      "password": "safe456",
-      "mode": "pve"
+      "ip": "السيرفر_الحقيقي_2:20700",
+      "password": "كلمة_السر_الحقيقية_2",
+      "mode": "pve",
+      "icon": "🦖"
+    },
+    {
+      "id": "003",
+      "name": "Mixed Arena",
+      "ip": "السيرفر_الحقيقي_3:20715",
+      "password": "كلمة_السر_الحقيقية_3",
+      "mode": "pvx",
+      "icon": "⚔️🦖"
     }
   ]
 }
