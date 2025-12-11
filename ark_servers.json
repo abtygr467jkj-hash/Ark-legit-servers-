@@ -1,0 +1,21 @@
+{
+  "version": "2.2",
+  "developer": "ARK_Legit",
+  "message": "Official Legit Servers",
+  "servers": [
+    {
+      "id": "001",
+      "name": "LegitServer 2.2",
+      "ip": "example1.ark.com:20700",
+      "password": "pass123",
+      "mode": "pvp"
+    },
+    {
+      "id": "002",
+      "name": "Peaceful ARK",
+      "ip": "example2.ark.com:20700",
+      "password": "safe456",
+      "mode": "pve"
+    }
+  ]
+}
