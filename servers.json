@@ -1,0 +1,50 @@
+{
+  "version": "2.2",
+  "last_updated": "2024-03-20",
+  "developer": "ARK_Legit_Developer",
+  "message": "Official Legit Servers - Anti-Cheat System",
+  "servers": [
+    {
+      "id": "LS001",
+      "name": "LegitServer 2.2",
+      "ip": "game.arklegit.com:20700",
+      "password": "legit2024",
+      "mode": "pvp",
+      "icon": "⚔️",
+      "max_players": 70,
+      "region": "EU",
+      "description": "Official Legit Server - No Cheating Allowed"
+    },
+    {
+      "id": "LS002",
+      "name": "Peaceful ARK",
+      "ip": "pve.arklegit.com:20700",
+      "password": "safehaven",
+      "mode": "pve",
+      "icon": "🦖",
+      "max_players": 50,
+      "region": "US",
+      "description": "PvE Only - Build & Explore Safely"
+    }
+  ]
+}
+"ip": "game.arklegit.com:20700",
+    "password": "legit2024",
+    "mode": "pvp",
+    "icon": "⚔️",
+    "max_players": 70,
+    "region": "EU",
+    "description": "Official Legit Server - No Cheating Allowed"
+  },
+  {
+    "id": "LS002",
+    "name": "Peaceful ARK",
+    "ip": "pve.arklegit.com:20700",
+    "password": "safehaven",
+    "mode": "pve",
+    "icon": "🦖",
+    "max_players": 50,
+    "region": "US",
+    "description": "PvE Only - Build & Explore Safely"
+  }
+]
